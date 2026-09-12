@@ -47,7 +47,7 @@ public class Robot {
                 "Model Name: " + modelName + "\n" +
                 "Chassis Type: " + chassisType + "\n" +
                 "Battery Model: " + batteryModel + "\n" +
-                "Battery Capacity: " + batteryCapacity + "\n" +
+                "Battery Capacity: " + batteryCapacity + "%\n" +
                 "Has Manipulator: " + hasManipulator + "\n" +
                 "Primary Sensor: " + primarySensor + "\n";
     }
